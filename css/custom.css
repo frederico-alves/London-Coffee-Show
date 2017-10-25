@@ -5,8 +5,10 @@
 
 .jumbotron {
    min-height: 50vh;
+   min-width: 320px;
    background-image: url('../img/jumbo-bg-background.jpg');
    background-size: cover;
+   background-position: center;
 }
 
 .width70px {
