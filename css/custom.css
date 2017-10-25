@@ -1,0 +1,65 @@
+.navbar .navbar-brand {
+   color: rgba(255, 255, 255, 0.50);
+   font-size: 1rem;
+}
+
+.jumbotron {
+   min-height: 50vh;
+   background-image: url('../img/jumbo-bg-background.jpg');
+   background-size: cover;
+}
+
+.width70px {
+   width:70px;
+}
+
+/**/
+
+.btn-orang,
+.bg-orang {
+   background-color: #dc4c46;
+   color: white;
+}
+
+.btn-outline-info {
+   color: #dc4c46;
+   border-color: #dc4c46;
+   cursor: pointer;
+}
+
+.btn-outline-info:hover {
+   border-color: #dc4c46;
+   background-color: #dc4c46;
+}
+
+.hrWhite {
+   margin-top: 2rem;
+   width: 40%;
+   border: 0.3px solid white;
+}
+
+.btn-orang {
+   cursor: pointer;
+}
+
+a,
+.nav-link {
+   color:#dc4c46;
+}
+
+a:hover {
+   color: #868e96;
+}
+
+
+.nav-link:hover {
+   color:#868e96;
+}
+
+.dropup {
+   margin-right: 20px;
+}
+
+.badge-danger{
+   background-color: #dc4c46;
+}
